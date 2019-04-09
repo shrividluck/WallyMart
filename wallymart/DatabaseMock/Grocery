@@ -1,0 +1,3 @@
+#itemID, itemName, itmePrice, itemCat, itemCount
+100,Milk,5.00,Grocery,5
+101,Bread,9.00,Grocery,3

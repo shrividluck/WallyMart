@@ -1,0 +1,3 @@
+#itemID, itemName, itemPrice, itemCat, itemCount
+300,Shirt,20.00,Apparel,5
+302,Skirt,15.00,Apparel,3
